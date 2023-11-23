@@ -32,5 +32,10 @@ return {
             -- add any options here
         },
         lazy = false,
+    },
+    {
+        "ellisonleao/glow.nvim",
+        config = true,
+        cmd = "Glow"
     }
 }

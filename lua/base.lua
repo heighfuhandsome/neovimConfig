@@ -83,7 +83,7 @@ map("v", "K", ":move '<-2<CR>gv-gv", opt)
 
 --buffer
 map('n','<leader>a',':bp<CR>',opt)
-map('n','<leader>d',':bp<CR>',opt)
+map('n','<leader>d',':bn<CR>',opt)
 map('n','<leader>c',':bd!<CR>',opt)
 
 
